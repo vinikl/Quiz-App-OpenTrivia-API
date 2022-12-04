@@ -1,1 +1,1 @@
-# Quiz-App-OpenTrivia-API
+Quiz App made with the Open Trivia API
